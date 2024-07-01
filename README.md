@@ -23,7 +23,7 @@ Skills: REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=didarulZend1981&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/didarulZend1981)  
+![GitHub metrics](https://metrics.lecoq.io/?user=didarulZend1981)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=didarulZend1981)  
 

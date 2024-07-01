@@ -27,3 +27,11 @@ Skills: REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=didarulZend1981)  
 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=didarulzend1981&show_icons=true&locale=en&layout=compact" alt="didarulzend1981" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=didarulzend1981&show_icons=true&locale=en" alt="didarulzend1981" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=didarulzend1981&" alt="didarulzend1981" /></p>
+

@@ -1,4 +1,10 @@
 ![A passionate frontend developer from Bangladesh](https://i.ibb.co/kQgkJHw/Moh.png)
+
+
+### Current Stats
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=didarulzend1981&" alt="didarulzend1981" /></p>
+
+
 ### Hi there 👋, my name is Mohammad Didarul Islam
 #### A passionate frontend developer from Bangladesh
 
